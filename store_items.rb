@@ -20,3 +20,5 @@ item3 = {
 p item1
 
 p "#{item1["color"]} apples will cost #{item1["price"]} and it will be in the #{item1["type"]} section"
+
+p item3 
