@@ -15,7 +15,7 @@ item3 = {
   "price" => 16, 
   "type" => "clothes"
 }
-#yes
+
 
 p item1
 
